@@ -1,20 +1,13 @@
 # Nuscenes Dataset Download (Enhanced Version)
 
 **A modified script for downloading and extracting the full nuScenes dataset, based on [li-xl/nuscenes-download](https://github.com/li-xl/nuscenes-download).**
-
-This version adds login automation, file integrity checks, and usability improvements. Please use responsibly for educational and research purposes only.
-
 ---
 
 ### What's New
 
-- Added `trainval01–03` blobs for full dataset coverage  
-- Logs in **before each file download** to prevent token expiration  
-- Verifies file integrity using **MD5 checksums**  
+- Logs in **before each file download** to prevent token expiration   
 - Checks for **minimum disk space** before downloading  
 - Automatically **extracts and removes** archives after download  
-- **Progress bar** added using `tqdm` for real-time download visibility
-
 ---
 
 ### Usage
