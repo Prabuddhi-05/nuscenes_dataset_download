@@ -20,6 +20,7 @@ MIN_FREE_GB = 150  # Minimum free GB to continue
 
 # Files to download and their MD5 hashes
 DOWNLOAD_FILES = {
+    "v1.0-trainval_meta.tgz": "537d3954ec34e5bcb89a35d4f6fb0d4a",
     "v1.0-trainval01_blobs.tgz": "cbf32d2ea6996fc599b32f724e7ce8f2",
     "v1.0-trainval02_blobs.tgz": "aeecea4878ec3831d316b382bb2f72da",
     "v1.0-trainval03_blobs.tgz": "595c29528351060f94c935e3aaf7b995",
