@@ -6,8 +6,8 @@ A modified script for downloading and extracting the full nuScenes dataset, base
 ### What's New
 
 - Logs in **before each file download** to prevent token expiration   
-- Checks for **minimum disk space** before downloading  
-- Automatically **extracts and removes** archives after download  
+- Automatically **extracts and removes** archives after download
+- Checks for **minimum disk space** before downloading
 ---
 
 ### Usage
