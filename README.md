@@ -27,6 +27,7 @@ A modified script for downloading and extracting the full nuScenes dataset, base
    USER_PASSWORD = "your_password"
    OUTPUT_DIR = "/path/to/save"
    REGION = "asia"  # or 'us'
+   MIN_FREE_GB = 150  # Minimum free GB to continue
    ```
 
 4. Run it:
