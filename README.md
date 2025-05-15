@@ -1,6 +1,6 @@
 # Nuscenes Dataset Download (Enhanced Version)
 
-**A modified script for downloading and extracting the full nuScenes dataset, based on [li-xl/nuscenes-download](https://github.com/li-xl/nuscenes-download).**
+*A modified script for downloading and extracting the full nuScenes dataset, based on [li-xl/nuscenes-download](https://github.com/li-xl/nuscenes-download).*
 ---
 
 ### What's New
