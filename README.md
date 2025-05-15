@@ -31,7 +31,7 @@
 
 4. Run it:
    ```bash
-   python download_nuscenes.py
+   python download_nuscenes_dataset.py
    ```
 
 ---
@@ -39,5 +39,3 @@
 ### Acknowledgements
 
 - Based on: [li-xl/nuscenes-download](https://github.com/li-xl/nuscenes-download)  
-- Inspired by: [Syzygianinfern0/NuPlan-Download-CLI](https://github.com/Syzygianinfern0/NuPlan-Download-CLI)  
-- Improvements from: [songshiyu01](https://github.com/songshiyu01), [harsanyidani](https://github.com/harsanyidani)
